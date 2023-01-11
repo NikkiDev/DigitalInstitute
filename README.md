@@ -1,6 +1,7 @@
-# This is my first repository 
+# This is my first repository
 
 Hello World
 
+i changed my file
 
-i changed my mind
+and im going to upload it

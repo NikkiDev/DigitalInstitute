@@ -1,4 +1,7 @@
-# This is my first repository
+
+i changed the name to Kote Japaridze
+
+
 
 Basic Commands for working with git
 
@@ -15,3 +18,4 @@ git chechout -b branch-name <<<< ახალი ბრენჩის შექ
 git pull <<<< რიმოუთიდან ცვლილებების დააფდეითება, როცა ბრენჩი დალინკულია>>>>
 
 git pull origin branch-name <<<< რიმოუთიდან ცვლილებების დააფდეითება კონკრეტული ბრენჩისთვის/ბრენჩიდან >>>>
+

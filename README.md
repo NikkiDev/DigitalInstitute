@@ -1,8 +1,6 @@
 
 i changed the name to Romeo Natchkebia
-
-
-
+i think this command lines are very useful
 
 Basic Commands for working with git
 

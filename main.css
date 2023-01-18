@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: "Kumbh Sans", sans-serif;
+    margin: 2rem 5rem;
+  }
+  h1 {
+    font-weight: 700;
+    font-size: xx-large;
+    color: #1d2025;
+  }
+  h3 {
+    line-height: 2rem;
+  }
+  .bold {
+    color: black;
+    font-family: "Outfit", sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    text-decoration: none;
+    margin: 0 2rem;
+  }
+  .button {
+    border: none;
+    border-radius: 50%;
+  }
+  .header {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+  }
+  .links {
+    display: flex;
+    align-items: center;
+    color: black;
+    justify-content: center;
+    flex: 2;
+    text-decoration: none;
+  }
+  .nav-logo {
+    display: flex;
+    align-items: center;
+    border: none;
+    gap: 2rem;
+    justify-content: flex-end;
+    flex: 1;
+  }
+  .main-body {
+    display: flex;
+    justify-content: space-around;
+    padding: 3rem;
+  }
+  .small-foto {
+    display: flex;
+    gap: 30px;
+    margin-top: 2rem;
+  }
+  .right-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 2rem;
+  }
+  .orange {
+    color: #ff7d1a;
+  }
+  .sale {
+    background-color: #ffede0;
+    font-size: large;
+  }
+  .order-buttons {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    justify-content: space-evenly;
+    margin: 2rem 0;
+    padding: 2rem 0;
+  }
+  .number-div {
+    display: flex;
+    background-color: #efefef;
+    border-radius: 10px;
+    flex: 1;
+    justify-content: space-between;
+    padding: 1rem;
+  }
+  .add-button {
+    display: flex;
+    align-items: center;
+    background-color: #ff7d1a;
+    border-radius: 1rem;
+    border: none;
+    flex: 2;
+    gap: 1rem;
+    justify-content: center;
+    padding: 1rem;
+  }
+  

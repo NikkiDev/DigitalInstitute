@@ -1,9 +1,4 @@
 
-i changed the name to Kote Japaridze
-
-There are interesting records 
-
-
 
 Basic Commands for working with git
 
